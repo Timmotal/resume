@@ -92,28 +92,23 @@ li {
     font-size: 0.9em;
     color: var(--secondaryTextColor);
 }
-
 #socials--list a:hover {
     color: var(--mainLinkColor);
 }
-
 #qualifications--list {
     list-style: none; 
 }
-
 #wrapper--techstack__items {
     display: flex;
     flex-wrap: wrap;
     gap: 1em;
     font-size: 0.9em;
 }
-
 .card--techstack{
     border: 1px solid var(--mainBorderColor);
     padding: 0.5em 1em;
     border-radius: 5px;
 }
-
 .card--work-history {
     border-left: 1px solid var(--mainBorderColor);
     margin-top: 3em;
