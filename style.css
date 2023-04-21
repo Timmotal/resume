@@ -134,7 +134,7 @@ li {
     color: var(--mainLinkColor);
 }
 
-/* MEDIA__QUERY */
+/* MEDIA__QUERY FOR MOBILE DEVICES */
 @media(max-width: 600px) {
     #wrapper--hero {
         flex-direction: column;
